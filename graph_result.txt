@@ -1,0 +1,52 @@
+Result from graphs
+Four factors researched in this project focuses on the early and mid game, which usually happens before 20min into the game. As the game continues, gears and other advantages built during early and mid game becomes more important,and making situations more complicated. Therefore this project uses these four factors to understand why there is win rate difference between two sides 
+
+
+Dragons:
+  0.1 location:
+    Bottom blue side near river.
+  0.2 mechanism:
+    First spawn at 5 minutes.If killed, another dragon will spawn after 5 minutes. Killing the dragon grants all player on the team a buff. Effect of the buff doubles after elder dragon(spawns at 35min) killed.Killing the dragon provide experience with a base and bonus exp(based on level), which is a good source of exp for low level player.
+
+  1. first dragon kills:
+   Two teams average on the number first dragon kill. Blue team is more likely to win after killing the first dragons. Assumption is that they loose less(from team fight kills) for killing the dragon.
+  2. time of the first dragon kill:
+    Two teams average the same on the first dragon kill,
+    but before 10 min(early game), blue team tends to kill the first dragon earlier than the red team.At 7 min, blue team kills more and at 9 min red team kills more.
+    Players reaches level 6(with their ultimate skill just obtained and ready) around 9-10 minutes. From the graph red team tends to be cautious before obtaining their ultimate, and is more likely to wait for killing the dragon when they're more capable.
+  3. total number of dragon kills:
+    Blue team kills more dragons on average. Map advantage.
+  
+Rift Hereald:
+  0.1 location:
+    Top red side near river
+  0.2 mechanism:
+    Only one spawns every game, disappears around 19min45s if not killed. Player who killed the herald will obtain an item that can be used to summon the herald on the player's location. It can be used to deal massive amount of damage to the tower, as well as emitting a wave to limit enemy player's movement.
+  1.Herald kills team
+    Blue side is more likely to obtain the herald and win after obtaining the dragon. Assumption is map advantage.
+  2.Time
+    Curve appears to be similar.
+  
+first blood
+  0.1 mechanism
+    First blood will grant 100 bonus gold to player with the kill, and 50 bonus gold for player that assisted.
+  1.first blood team and assist
+    Blue side is more likely to obtain first kill, and win after. Assist rate is similar around 1 player, which means usually happens as a small 2 player team fight while other players stay at their position.
+  2.position
+    Player position can be used to tell where the team fight is likeliy to happen because in early game players are more vulnerable to structures and units on the map compare to in the mid to late game.
+    Top support and jungle are the most victims of first blood, meaning first blood happens more likely around top and bottom. Corresponding players who gained first blood are more likely to be jungle and top on blue, jungle adc on red, and assist being jungle and support.
+    
+
+First tower
+  0.1 mechanism
+    First tower take down grants 300 bonus gold to player who participated in the take down.
+  1. first tower take down team
+    Blue team is more likely to take down the first tower and win. Assumptions include map advantage and herald(about 0.56 herald gains per game peak at 11 minute,2-3 minutes before peaks of turret take down, which could be possible).
+  2. time
+    Blue team is more likely to take down the first turret earlier than red team. Possible assumption is map advantage making them safer to take down turret early game.
+    
+
+Gold
+  Gold measures the overall resource gained of two teams.Two teams averages similarly at 10 minutes and 15 minutes with blue team slightly higher about 50 to 100 gold.From previous data blue team has a higher possibility of getting first blood and turret. Assumption is that red team player will player more conservative and focuses on the lane resource gaining(including kill minions and monsters) instead of being aggressive of player kills. 
+    
+  
